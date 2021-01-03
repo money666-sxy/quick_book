@@ -13,10 +13,15 @@ pipreqs . --encoding=utf8 --force
 
 pip3 install -r requirements.txt
 ```
-## 完成以上操作之后即可运行
+## 完成以上操作之后即可输入命令运行
 
 > 提取图书关键字
 > python3 crawle_book.py
 
 > 提取电影关键字
 > python3 crawle_movie.py
+
+## 等待提取完成之后即可在picture目录下查看生成内容
+```
+ls picture/
+```
