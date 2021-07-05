@@ -5,7 +5,7 @@
 ```
 yum install -y git 
 
-https://github.com/money666-sxy/quick_book.git
+git clone https://github.com/money666-sxy/quick_book.git
 
 pip3 install pipreqs
 
